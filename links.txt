@@ -1,0 +1,5 @@
+Linux
+http://unofficial.qt-jambi.org/
+
+Windows and OSX
+http://www.labstory.se/compiledqt/
