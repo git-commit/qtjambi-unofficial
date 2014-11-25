@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.sf.qtjambi</groupId>
   <artifactId>qtjambi-native-win64</artifactId>
-  <version>4.8.5</version>
+  <version>4.8.5-0</version>
   <description>POM was created from install:install-file</description>
 </project>
