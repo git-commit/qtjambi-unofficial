@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>net.sf.qtjambi</groupId>
-  <artifactId>qtjambi-native-osx</artifactId>
+  <artifactId>qtjambi-native-mac32</artifactId>
   <versioning>
     <release>4.8.5</release>
     <versions>

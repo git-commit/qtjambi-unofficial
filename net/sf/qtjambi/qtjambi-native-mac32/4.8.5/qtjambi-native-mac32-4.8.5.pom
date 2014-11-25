@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.sf.qtjambi</groupId>
-  <artifactId>qtjambi-native-osx</artifactId>
+  <artifactId>qtjambi-native-mac32</artifactId>
   <version>4.8.5</version>
   <description>POM was created from install:install-file</description>
 </project>
