@@ -80,3 +80,11 @@ http://unofficial.qt-jambi.org/
 
 Windows and OSX:
 http://www.labstory.se/compiledqt/
+
+## Donate
+If this helped you and you would like to give something back in return, you can click this Flattr button or send me some bitcoins.
+
+<a href="https://flattr.com/submit/auto?user_id=Snowdragon&url=https%3A%2F%2Fgithub.com%2Fgit-commit%2Fqtjambi-unofficial" target="_blank"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
+
+Send Bitcoins to:
+<pre>12LjMXVoH2MtnnaLBoZHpesZirj4JMhPvL</pre>
